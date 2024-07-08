@@ -13,3 +13,4 @@ Setup & Features
 - msw 2.2.14
 - husky 9.0.11
 - lint-staged 15.2.7
+- react router 6.24.1
