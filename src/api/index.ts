@@ -1,3 +1,1 @@
-export const api = {
-  getNothing: () => Promise.resolve(),
-};
+export * from "./weather";
