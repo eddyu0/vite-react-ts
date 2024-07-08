@@ -11,3 +11,5 @@ Setup & Features
 - Vitest 1.5.2
 - Testing Library
 - msw 2.2.14
+- husky 9.0.11
+- lint-staged 15.2.7
